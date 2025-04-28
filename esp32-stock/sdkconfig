@@ -426,13 +426,6 @@ CONFIG_PARTITION_TABLE_MD5=y
 # end of Partition Table
 
 #
-# esp32-rotary-encoder Configuration
-#
-CONFIG_ROT_ENC_A_GPIO=26
-CONFIG_ROT_ENC_B_GPIO=25
-# end of esp32-rotary-encoder Configuration
-
-#
 # Compiler options
 #
 CONFIG_COMPILER_OPTIMIZATION_DEBUG=y

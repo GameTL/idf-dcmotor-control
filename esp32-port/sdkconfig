@@ -428,8 +428,8 @@ CONFIG_PARTITION_TABLE_MD5=y
 #
 # esp32-rotary-encoder Configuration
 #
-CONFIG_ROT_ENC_A_GPIO=26
-CONFIG_ROT_ENC_B_GPIO=25
+CONFIG_ROT_ENC_A_GPIO=9
+CONFIG_ROT_ENC_B_GPIO=8
 # end of esp32-rotary-encoder Configuration
 
 #
